@@ -2,6 +2,10 @@
 
 A polished React application that explores the PokéAPI with advanced search, filtering, and favorites functionality. Built with Next.js, TypeScript, and Tailwind CSS.
 
+## 🚀 Live Demo
+
+[Resource Explorer - Pokémon Edition](https://resource-explorer-stephen-nearys-projects.vercel.app/)
+
 ## Features
 
 ### ✅ Must-Have Requirements (All Implemented)
