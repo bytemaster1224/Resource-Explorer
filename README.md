@@ -4,7 +4,7 @@ A polished React application that explores the PokéAPI with advanced search, fi
 
 ## 🚀 Live Demo
 
-[Resource Explorer - Pokémon Edition](https://resource-explorer.vercel.app/)
+[Resource Explorer - Pokémon Edition](https://resource-explorer-six.vercel.app/)
 
 ## Features
 
